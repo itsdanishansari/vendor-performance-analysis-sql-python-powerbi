@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+sqlite3
+jupyter
+powerbi-client
