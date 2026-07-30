@@ -22,15 +22,10 @@ This project simulates a real-world supply chain and procurement analytics engag
 Using a combination of **Python, SQL, Statistical Analysis, and Power BI**, this solution uncovers:
 
 ✅ High-value vendors driving business growth
-
 ✅ Procurement concentration risks
-
 ✅ Inventory turnover inefficiencies
-
 ✅ Brand-level optimization opportunities
-
 ✅ Profitability improvement areas
-
 ✅ Unsold capital exposure
 
 The final deliverable is an executive-level Power BI dashboard designed for procurement managers, supply chain analysts, category managers, and business stakeholders.
